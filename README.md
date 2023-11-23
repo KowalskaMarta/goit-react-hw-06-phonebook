@@ -22,4 +22,4 @@ npm start
 http://localhost:3000
 
 ## How it should look like?
-![App look](./assets/phonebook.png)
+![App look](./assets/phonebook01.png)
